@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher
 from keyboards import inline_router
 from handlers import Men_haqimda_handler
 
-API_TOKEN = "7559356998:AAEncUsqUKnO3wAJJj6MOVAyAOhyQ7-pkDQ"
+API_TOKEN = "8039579450:AAH_wHiiVPG4pTqG4xk6jETbH-NybTuYSU8"
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
